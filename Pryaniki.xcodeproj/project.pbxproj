@@ -70,6 +70,7 @@
 		4E2CB14824BDF2A6006C64BA = {
 			isa = PBXGroup;
 			children = (
+				4E2F2E5524BF673E00C0D250 /* Screenshots */,
 				4E2CB15324BDF2A6006C64BA /* Pryaniki */,
 				4E2CB15224BDF2A6006C64BA /* Products */,
 			);
@@ -142,6 +143,13 @@
 				4E2F2E5324BF644A00C0D250 /* CardText.swift */,
 			);
 			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		4E2F2E5524BF673E00C0D250 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
